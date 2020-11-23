@@ -17,7 +17,7 @@ class App extends Component{
   state={
     input:'',
     todos:[
-      {id:0, text:'안녀용', checked:false}
+      {id:0, text:'안녀용', checked:true}
     ],
     color:'#343a40'
   }
