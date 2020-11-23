@@ -32,18 +32,16 @@
 }
 
 .checked-circle{
-    border:1px solid #a0a0a0;
+    border:1px solid #343a40;
     width:2rem;
     height:2rem;
     line-height: 2rem;
     text-align: center;
     border-radius: 1rem;
-    color:#a0a0a0;
+    color:#343a40;
     margin-right:1rem
 }
 
 .checked-circle.checked{
-    border-color:#343a40;
-    color:#343e40;
     background-color: #343a40;
 }
