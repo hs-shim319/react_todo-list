@@ -1,0 +1,28 @@
+main{
+    width:500px;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    background: #fff;
+    box-shadow: 3px 3px 8px 5px rgba(0,0,0,0.1);
+}
+.palette-wrapper{
+    width:100%;
+    padding:0 5%;
+    box-sizing: border-box;
+    text-align: center;
+    margin:1rem 0;
+}
+
+.form-wrapper{
+    width:100%;
+    padding:0 5%;
+    box-sizing: border-box;
+}
+
+.list-wrapper{
+    margin:1rem 0;
+    height:500px;
+    overflow-y: scroll;
+}

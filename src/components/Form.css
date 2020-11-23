@@ -1,0 +1,20 @@
+.form{
+    display: flex;
+    width:100%
+}
+
+.form input{
+    flex:1;
+    border:none;
+    border-bottom:1px solid #a0a0a0;
+}
+
+.form .create-button{
+    width:3rem;
+    height:2em;
+    border-radius: 0.5rem;
+    text-align: center;
+    line-height: 2rem;
+    margin-left: 1rem;
+    color:#fff
+}

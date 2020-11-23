@@ -1,0 +1,18 @@
+.color-data{
+    width:2rem;
+    height:2rem;
+    border-radius: 1rem;
+    margin:1rem 0.5rem;
+    display: inline-block;
+    opacity: 0.4;
+    transition: opacity 0.3s
+}
+
+.color-data:hover{
+    opacity: 1;
+}
+
+.color-data.active{
+    opacity:1
+}
+
